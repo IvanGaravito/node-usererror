@@ -1,0 +1,27 @@
+{
+  "name": "node-usererror",
+  "version": "1.0.0",
+  "description": "User errors for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanGaravito/node-usererror.git"
+  },
+  "keywords": [
+    "error",
+    "usererror",
+    "node-usererror"
+  ],
+  "author": "Ivan Garavito <ivangaravito@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/IvanGaravito/node-usererror/issues"
+  },
+  "homepage": "https://github.com/IvanGaravito/node-usererror#readme",
+  "devDependencies": {
+    "mocha": "^2.4.5"
+  }
+}
