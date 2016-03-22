@@ -4,7 +4,8 @@
   "description": "User errors for Node.js",
   "main": "index.js",
   "scripts": {
-    "test": "standard && mocha"
+    "test": "gulp test",
+    "docs": "gulp docs"
   },
   "repository": {
     "type": "git",
@@ -22,6 +23,10 @@
   },
   "homepage": "https://github.com/IvanGaravito/node-usererror#readme",
   "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-standard": "^6.0.5",
+    "jsdoc-to-markdown": "^1.3.3",
     "mocha": "^2.4.5"
   }
 }
