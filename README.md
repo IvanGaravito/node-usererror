@@ -2,7 +2,7 @@
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 [![Build Status](https://travis-ci.org/IvanGaravito/node-usererror.svg?branch=master)](https://travis-ci.org/IvanGaravito/node-usererror)
-[![Dependency Status](https://david-dm.org/IvanGaravito/node-usererror.svg)](https://david-dm.org/IvanGaravito/node-usererror)
+[![devDependency Status](https://david-dm.org/IvanGaravito/node-usererror/dev-status.svg)](https://david-dm.org/IvanGaravito/node-usererror#info=devDependencies)
 [![NPM pkg](https://img.shields.io/npm/v/node-usererror.svg)](https://www.npmjs.com/package/proxyvator)
 [![NPM dm](https://img.shields.io/npm/dm/node-usererror.svg)](https://www.npmjs.com/package/proxyvator)
 [![Gratipay](https://img.shields.io/gratipay/IvanGaravito.svg)](https://gratipay.com/IvanGaravito)
